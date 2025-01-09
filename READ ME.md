@@ -32,7 +32,7 @@ A linear regression model was created to predict the quality of sleep using:
 
 ### Model Performance
 - **Mean Squared Error (MSE)**: *0.1474776370124222*
-- **R-squared (R²)**: *Value*
+- **R-squared (R²)**: *0.9022434942028194*
 
 These metrics indicate the model's effectiveness in capturing the relationships between features and sleep quality.
 
