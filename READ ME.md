@@ -31,7 +31,7 @@ A linear regression model was created to predict the quality of sleep using:
 - Physical Activity Level
 
 ### Model Performance
-- **Mean Squared Error (MSE)**: *Value*
+- **Mean Squared Error (MSE)**: *0.1474776370124222*
 - **R-squared (R²)**: *Value*
 
 These metrics indicate the model's effectiveness in capturing the relationships between features and sleep quality.
